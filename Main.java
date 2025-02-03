@@ -16,7 +16,7 @@ class Main {
         answer *= i;
         
         }
-        System.out.println(answer); 
+        System.out.println("The factorial of " + num + " is " + answer); 
         
     }
 }
